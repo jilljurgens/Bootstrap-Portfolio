@@ -1,0 +1,206 @@
+body{
+	 background-image: url(../images/cork-wallet.png);
+}
+
+h2{
+	color: #4aaaa5;
+	font-size: 30px;
+    font-weight: bolder;
+    padding: 10px;
+ /*   margin-left: : 50px;*/
+}
+h3{
+	color: #4aaaa5;
+	text-align: center;
+	font-size: 22px;
+    font-weight: bold;
+    padding: 10px;
+    border-bottom: 2px solid;
+    
+}
+.header{
+	width: 100%;
+	height: 100px;
+	background-color: #ffffff;
+	position: relative;
+	top:0;
+	border-bottom-color: #cccccc ;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	
+
+}
+
+.name {
+	width: 200px;
+	height: 40px;
+	background-color: #4aaaa5;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bolder;
+
+
+}
+
+.headerlinks{
+	color: #777777;	
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+  /*  float: right;*/
+	/*background-color: #ffffff;*/
+	
+
+}
+.middlebackground{
+    background-image: url(../images/cork-wallet.png);
+}
+ 
+
+
+
+.whitebackgroundwithborder
+{
+    background-color: #e8eaed;
+    border: 2px solid #dddddd;
+
+
+}
+/*.portfoliomiddlesection 
+{
+    clear: both;
+    height: 900px;
+    position: relative;
+    top: 0px;
+    background-image: url(../images/cork-wallet.png);
+    background-color: #e8eaed;
+    width: 100%;
+
+}*/
+.contentblock{
+	background-color: #ffffff;
+	margin-left: 100px;
+	position: absolute;
+	left: 150px;
+	border: 2px solid #dddddd;
+	margin-left: auto;
+	top: 20px;
+
+}
+.me {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+    line-height: 25px;
+    margin: 30px;
+ 	margin: 30px 100px 30px 100px;
+}
+.Footer{
+	clear: both;
+	width: 100%;
+	height: 20px;
+	background-color: #666666;
+	color: white;
+	bottom: 0px;
+	text-align: center;
+	padding: 35px;
+	font-size: 15px;
+	border-top: 10px solid #4aaaa5;
+
+}
+#aboutme{
+	border-bottom: 2px solid #dddddd;
+	margin: 15px;
+}
+.connectimage{
+	height: 55px;
+	width: 55px;
+	padding: 10px;
+	
+}
+.connectwithme{
+	height: 200px;
+	width: 233px;
+	background-color: #ffffff;
+	position: absolute;
+	right: 155px;
+	border: 2px solid #dddddd;
+	margin-right: auto;
+	top: 20px;
+
+}
+.contacttblock{
+	clear: both;
+	height: 470px;
+	width: 600px;
+	background-color: #ffffff;
+	margin-left: 100px;
+	position: absolute;
+	left: 150px;
+	border: 2px solid #dddddd;
+	margin-left: auto;
+	top: 20px;
+
+}
+
+form {
+	
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	margin-left: 20px;
+}
+.placeholder{
+	height: 250px;
+    width: 300px;
+    padding: 10px 35px;
+    float: left;
+    margin: 15px;
+
+}
+
+.imgs {
+    color: white;
+    background-color: #4aaaa5;
+    height: 30px;
+    width: 230px;
+    left: 50px;
+    bottom: 40px;
+    font-weight: bolder;
+    position: absolute;
+    text-align: center;
+    font-size: 22px;
+
+}
+.picturewrap{
+	position: relative;
+	float: left;
+}
+
+#contactcontentblock{
+	height: 510px;
+}
+
+#nameinput, #emailinput{
+	height: 20px;
+    width: 546px;
+    border: 2px solid #dddddd;
+    padding: 5px;
+ 
+
+}
+#messageinput{
+	height: 150px;
+    width: 556px;
+    border: 2px solid #dddddd;
+
+}
+#submit{
+	width: 100px;
+	background-color: #4aaaa5;
+	color: white;
+/*	padding: 10px;
+	margin-bottom: 10px;*/
+}
+
+
+
+
