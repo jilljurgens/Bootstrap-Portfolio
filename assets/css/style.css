@@ -18,11 +18,11 @@ h3{
     border-bottom: 2px solid;
     
 }
-.navbar-header{
+/*.header{
 	height: 100px;
-/*	background-color: #ffffff;*/
+	background-color: #ffffff;
 	border-bottom-color: #cccccc solid 2px;
-}
+}*/
 /*.container-fluid {
 	background-color: #ffffff;
 }*/
@@ -39,7 +39,7 @@ h3{
 */
 }
 
-.name {
+/*.name {
 	width: auto;
 	height: auto;
 	background-color: #4aaaa5;
@@ -50,7 +50,7 @@ h3{
 /*	padding: 15px;*/
 
 
-}
+}*/
 
 .headerlinks{
 	color: #777777;	
@@ -122,8 +122,8 @@ h3{
 	margin: 15px;
 }
 .connectimage{
-	height: 55px;
-	width: 55px;
+	height: 70px;
+	width: 70px;
 	padding: 10px;
 	
 }
@@ -204,7 +204,7 @@ form {
 
 }
 #submit{
-	width: 100px;
+	width: 120px;
 	background-color: #4aaaa5;
 	color: white;
 /*	padding: 10px;
