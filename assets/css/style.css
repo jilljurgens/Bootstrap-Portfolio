@@ -2,12 +2,17 @@ body{
 	 background-image: url(../images/cork-wallet.png);
 }
 
+/*I can't get the hover to work. I don't want them white, as you can't see them.*/
+a:hover{
+	color: #777777
+
+}
 h2{
 	color: #4aaaa5;
 	font-size: 30px;
     font-weight: bolder;
     padding: 10px;
- /*   margin-left: : 50px;*/
+
 }
 h3{
 	color: #4aaaa5;
@@ -18,46 +23,11 @@ h3{
     border-bottom: 2px solid;
     
 }
-/*.header{
-	height: 100px;
-	background-color: #ffffff;
-	border-bottom-color: #cccccc solid 2px;
-}*/
-/*.container-fluid {
-	background-color: #ffffff;
-}*/
-/*.header{
-	width: 100%;
-	
-	
-	position: relative;
-	top:0;
-	border-bottom-color: #cccccc ;
-	border-bottom-style: solid;
-	border-bottom-width: 2px;
-	
-*/
-}
 
-/*.name {
-	width: auto;
-	height: auto;
-	background-color: #4aaaa5;
-	color: white;
-	font-size: 30px;
-	text-align: center;
-	font-weight: bolder;
-/*	padding: 15px;*/
-
-
-}*/
 
 .headerlinks{
 	color: #777777;	
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-
-  /*  float: right;*/
-	/*background-color: #ffffff;*/
 
 
 }
@@ -66,13 +36,10 @@ h3{
 }
  
 
-
-
 .whitebackgroundwithborder
 {
-    background-color: #e8eaed;
+    background-color: #ffffff;
     border: 2px solid #dddddd;
-
 
 }
 /*.portfoliomiddlesection 
@@ -101,7 +68,7 @@ h3{
 	color: #777777;
     line-height: 25px;
     margin: 30px;
- 	margin: 30px 100px 30px 100px;
+ 	
 }
 .Footer{
 	clear: both;
@@ -127,7 +94,7 @@ h3{
 	padding: 10px;
 	
 }
-.connectwithme{
+/*.connectwithme{
 	height: 200px;
 	width: 233px;
 	background-color: #ffffff;
@@ -137,8 +104,8 @@ h3{
 	margin-right: auto;
 	top: 20px;
 
-}
-.contacttblock{
+}*/
+/*.contacttblock{
 	clear: both;
 	height: 470px;
 	width: 600px;
@@ -150,7 +117,7 @@ h3{
 	margin-left: auto;
 	top: 20px;
 
-}
+}*/
 
 form {
 	
@@ -185,9 +152,9 @@ form {
 	float: left;
 }
 
-#contactcontentblock{
+/*#contactcontentblock{
 	height: 510px;
-}
+}*/
 
 #nameinput, #emailinput{
 	height: 20px;
@@ -207,8 +174,8 @@ form {
 	width: 120px;
 	background-color: #4aaaa5;
 	color: white;
-/*	padding: 10px;
-	margin-bottom: 10px;*/
+	margin-bottom: 10px;
+
 }
 
 
